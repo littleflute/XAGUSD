@@ -1,9 +1,13 @@
 [years](docs/years)
 
-[v0.0.2]()
+[v0.0.3](https://github.com/littleflute/XAGUSD/edit/master/README.md)
 
 [show me](https://littleflute.github.io/XAGUSD/)
 
+>v0.0.3: [include DOMhelp.js](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/DOMhelp.js)
+
+
+<script src="https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/DOMhelp.js"></script>
 
 
 
