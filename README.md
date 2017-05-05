@@ -1,8 +1,10 @@
 [years](docs/years)
 
-[v0.0.5](https://github.com/littleflute/XAGUSD/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/XAGUSD/edit/master/README.md)
 
 [show me](https://littleflute.github.io/XAGUSD/)
+
+>v0.0.6:[include ref js](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/listItemDoubleRollover.js)
 
 >v0.0.5:[import ref css](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/listItemDoubleRollover.css)
 
@@ -12,6 +14,7 @@
 
 
 <script src="https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/DOMhelp.js"></script>
+<script src="https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/listItemDoubleRollover.js"></script>
 <style type="text/css">
 		@import 'https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/listItemDoubleRollover.css';
 </style>
