@@ -1,15 +1,21 @@
 [years](docs/years)
 
-[v0.0.4](https://github.com/littleflute/XAGUSD/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/XAGUSD/edit/master/README.md)
 
 [show me](https://littleflute.github.io/XAGUSD/)
 
+>v0.0.5:[import ref css](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/listItemDoubleRollover.css)
+
 >v0.0.4:[add ref](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/exampleListItemDoubleRollover.html)
+
 >v0.0.3: [include DOMhelp.js](https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/DOMhelp.js)
 
 
 <script src="https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/DOMhelp.js"></script>
-
+<style type="text/css">
+		@import 'https://littleflute.github.io/beg-javascript-w-dom-scripting-ajax/Chapter5/listItemDoubleRollover.css';
+</style>
+	
 <ul id="news">
 	<li>
 		<h3><a href="news.php?item=1">Internet Explorer 8 to support CSS3</a></h3>
