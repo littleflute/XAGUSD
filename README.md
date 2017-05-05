@@ -1,0 +1,2 @@
+# XAGUSD
+XAGUSD
