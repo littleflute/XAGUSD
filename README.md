@@ -1,5 +1,11 @@
 [years](docs/years)
 
+[v0.0.2]()
+
+[show me](https://littleflute.github.io/XAGUSD/)
+
+
+
 
 ## Welcome to GitHub Pages
 
